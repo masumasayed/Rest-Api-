@@ -15,9 +15,13 @@ To get started with this project, you'll need the following:
 The following CRUD-based routes are available:
 
 ● GET /books: Retrieve a list of all books.
+
 ● GET /books/:id: Retrieve details of a specific book by ID.
+
 ● POST /books: Create a new book.
+
 ● PUT /books/:id: Update an existing book by ID.
+
 ● DELETE /books/:id: Delete a book by ID.
 
 # Testing the API
