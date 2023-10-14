@@ -6,7 +6,9 @@ This is a simple REST API server created using Node.js for performing CRUD opera
 To get started with this project, you'll need the following:
 
 ● Node.js 
-● MongoDB 
+
+● MongoDB
+
 ● Postman or any other API testing tool to interact with the API.
 
 # API Endpoints
