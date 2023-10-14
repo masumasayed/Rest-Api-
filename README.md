@@ -11,6 +11,17 @@ To get started with this project, you'll need the following:
 
 ● Postman or any other API testing tool to interact with the API.
 
+# Dependencies
+ ● body-parser : "^1.20.2"
+ 
+ ● dotenv : "^16.3.1"
+ 
+ ● express : "^4.18.2"
+ 
+ ● mongoose : "^7.6.2"
+ 
+ ● nodemon : "^3.0.1"
+
 # API Endpoints
 The following CRUD-based routes are available:
 
