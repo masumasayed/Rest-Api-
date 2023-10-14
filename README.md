@@ -14,15 +14,15 @@ To get started with this project, you'll need the following:
 # API Endpoints
 The following CRUD-based routes are available:
 
-● GET /books: Retrieve a list of all books.
+● GET : Retrieve a list of all Movies.
 
-● GET /books/:id: Retrieve details of a specific book by ID.
+● GET : Retrieve details of a specific Movie by ID.
 
-● POST /books: Create a new book.
+● POST : Create a new Movie.
 
-● PUT /books/:id: Update an existing book by ID.
+● PUT : Update an existing Movie by ID.
 
-● DELETE /books/:id: Delete a book by ID.
+● DELETE : Delete a Movie by ID.
 
 # Testing the API
 You can use Postman or any other API testing tool to interact with the API endpoints.
