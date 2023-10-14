@@ -5,18 +5,18 @@ This is a simple REST API server created using Node.js for performing CRUD opera
 # Software Requirements
 To get started with this project, you'll need the following:
 
-Node.js installed on your machine.
-MongoDB installed and running locally or on a remote server.
-Postman or any other API testing tool to interact with the API.
+● Node.js 
+● MongoDB 
+● Postman or any other API testing tool to interact with the API.
 
 # API Endpoints
 The following CRUD-based routes are available:
 
-GET /books: Retrieve a list of all books.
-GET /books/:id: Retrieve details of a specific book by ID.
-POST /books: Create a new book.
-PUT /books/:id: Update an existing book by ID.
-DELETE /books/:id: Delete a book by ID.
+● GET /books: Retrieve a list of all books.
+● GET /books/:id: Retrieve details of a specific book by ID.
+● POST /books: Create a new book.
+● PUT /books/:id: Update an existing book by ID.
+● DELETE /books/:id: Delete a book by ID.
 
 # Testing the API
 You can use Postman or any other API testing tool to interact with the API endpoints.
