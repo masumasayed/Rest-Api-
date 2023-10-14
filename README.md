@@ -22,22 +22,38 @@ To get started with this project, you'll need the following:
  
  ● nodemon : "^3.0.1"
 
+ 
+# Testing the API
+You can use Postman or any other API testing tool to interact with the API endpoints.
+Send GET, POST, PUT, or DELETE requests to the respective endpoints to perform CRUD operations on the book data.
+
 # API Endpoints
 The following CRUD-based routes are available:
 
 ● GET : Retrieve a list of all Movies.
 
+![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/a7fadddb-a235-4b60-a292-0e332a435e54)
+
+
 ● GET : Retrieve details of a specific Movie by ID.
+
+![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/57ca52b0-25c2-4aea-83a2-5e23873802ce)
+
 
 ● POST : Create a new Movie.
 
+![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/f5f17e2c-30eb-4199-9353-87310f4b2737)
+
 ● PUT : Update an existing Movie by ID.
+
+![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/74391482-9d6a-4aff-86f0-b1c9f945daa8)
+
 
 ● DELETE : Delete a Movie by ID.
 
-# Testing the API
-You can use Postman or any other API testing tool to interact with the API endpoints.
-Send GET, POST, PUT, or DELETE requests to the respective endpoints to perform CRUD operations on the book data.
-![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/e6dd9684-f77c-45af-b0c6-0951c20efd6e)
+![image](https://github.com/masumasayed/Rest-Api-/assets/139996403/472b9e20-a85b-4392-bdcd-8ebf484f4384)
+
+
+
 
 
